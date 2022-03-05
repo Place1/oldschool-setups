@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/oldschool-setups/static/js/main.7a98b6f1.js",
+    "main.js": "/oldschool-setups/static/js/main.61571327.js",
     "static/media/RuneScape-Plain-12.otf": "/oldschool-setups/static/media/RuneScape-Plain-12.df0598d6c28bb12cdda8.otf",
     "index.html": "/oldschool-setups/index.html"
   },
   "entrypoints": [
-    "static/js/main.7a98b6f1.js"
+    "static/js/main.61571327.js"
   ]
 }
